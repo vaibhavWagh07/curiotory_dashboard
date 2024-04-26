@@ -5,19 +5,19 @@ export const navbarData = [
         label: 'Dashboard'
     },
     {
-        routeLink: 'products',
-        icon: 'fal fa-box-open',
+        routeLink: 'teachers',
+        icon: 'fas fa-chalkboard-teacher',
         label: 'Teachers Data'
+    },
+    {
+        routeLink: 'blogs',
+        icon: 'fas fa-bold',
+        label: 'Blogs'
     },
     {
         routeLink: 'statistics',
         icon: 'fal fa-chart-bar',
-        label: 'Blogs'
-    },
-    {
-        routeLink: 'coupens',
-        icon: 'fal fa-tags',
-        label: 'Coupens'
+        label: 'Statistics'
     },
     {
         routeLink: 'pages',
